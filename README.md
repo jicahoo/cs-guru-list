@@ -8,3 +8,6 @@ Computer science guru.
 
 ## Martin Fowler (Software Architecture and Design)
 * https://martinfowler.com/
+
+## Jeffrey Dean (MapReduce, BigTable, TensorFlow, LevelDB, Spanner)
+* https://research.google.com/pubs/jeff.html
